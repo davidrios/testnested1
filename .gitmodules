@@ -1,0 +1,3 @@
+[submodule "testnested2"]
+	path = testnested2
+	url = ../../davidrios/testnested2.git
